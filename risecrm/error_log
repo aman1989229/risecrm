@@ -1,0 +1,6 @@
+[26-Apr-2018 21:52:02 Europe/London] PHP Fatal error:  Call to a member function result() on boolean in /home/smartpre/sukritonlinesolution.com/risecrm/application/hooks/init_settings.php on line 6
+[27-Apr-2018 06:24:36 Europe/London] PHP Fatal error:  Call to a member function row() on boolean in /home/smartpre/sukritonlinesolution.com/risecrm/application/controllers/Invoices.php on line 546
+[27-Apr-2018 06:24:38 Europe/London] PHP Fatal error:  Call to a member function row() on boolean in /home/smartpre/sukritonlinesolution.com/risecrm/application/controllers/Invoices.php on line 546
+[27-Apr-2018 09:58:05 Europe/London] PHP Fatal error:  Call to a member function row() on boolean in /home/smartpre/sukritonlinesolution.com/risecrm/application/controllers/Invoices.php on line 546
+[28-Jun-2018 10:35:58 Europe/London] PHP Fatal error:  Call to a member function row() on boolean in /home/smartpre/sukritonlinesolution.com/risecrm/application/controllers/Invoices.php on line 546
+[28-Jun-2018 10:36:01 Europe/London] PHP Fatal error:  Call to a member function row() on boolean in /home/smartpre/sukritonlinesolution.com/risecrm/application/controllers/Invoices.php on line 546
